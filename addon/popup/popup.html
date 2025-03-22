@@ -1,0 +1,33 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="popup.css" />
+</head>
+
+<body>
+    <div class="container">
+        <header>
+            <h1>New Tab Link Opener</h1>
+        </header>
+
+        <main>
+            <p class="description">
+                Enter URLs (one per line) where links should open in new tabs. Regular
+                expressions are supported.
+            </p>
+
+            <textarea id="urlPatterns" rows="8" placeholder="e.g. example.com&#10;.*\.reddit\.com"></textarea>
+
+            <div class="action-row">
+                <button id="saveBtn">Save</button>
+                <div id="status"></div>
+            </div>
+        </main>
+    </div>
+
+    <script src="popup.js"></script>
+</body>
+
+</html>
