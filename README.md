@@ -11,7 +11,7 @@
 
 <h4>Launch links in a new tab for defined sites.</h4>
 
-[<img src="https://labels.tahoe.be/firefox_download_dark.svg" height="53" alt="Download RocketLink for Firefox">](https://addons.mozilla.org/firefox/addon/rocketlink/)
+[<img src="https://labels.tahoe.be/firefox_download_dark.svg" height="53" alt="Download RocketLink for Firefox">](https://addons.mozilla.org/firefox/addon/rocketlink-url/)
 
 </div>
 
@@ -25,7 +25,7 @@
 
 ### Manage Launch List
 
-![A_(13-10-12)_(22-Mar-25)](https://github.com/user-attachments/assets/b420c9a9-44aa-459b-9b5b-1acf5257a34a)
+![A_(13-24-32)_(22-Mar-25)](https://github.com/user-attachments/assets/4b760057-6790-445d-9a2a-b123843b7f42)
 
 ## Contributing
 
